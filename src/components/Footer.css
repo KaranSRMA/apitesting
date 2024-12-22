@@ -1,0 +1,18 @@
+.footer ul{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.footer ul li{
+    list-style: none;
+
+}
+
+.footer{
+    padding: 10px;
+    background-color: rgb(74, 74, 71);
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
