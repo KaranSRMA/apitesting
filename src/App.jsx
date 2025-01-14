@@ -1,6 +1,6 @@
-import Navbar from "/components/Navbar";
-import Footer from "/components/Footer";
-import Card from "/components/card";
+import Navbar from "components/Navbar";
+import Footer from "components/Footer";
+import Card from "components/card";
 import { useState, useEffect } from "react";
 
 function App() {
