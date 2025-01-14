@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react"
 import React from 'react'
-import "./Card.css"
+import "Card.css"
 
 const Card = ({ users }) => {
     const [state, setState] = useState();
